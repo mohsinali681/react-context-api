@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohsinali681/react-context-api/static/css/main.083f0e7f.css",
+    "main.js": "/mohsinali681/react-context-api/static/js/main.da68b4a3.js",
+    "static/js/787.82dc9301.chunk.js": "/mohsinali681/react-context-api/static/js/787.82dc9301.chunk.js",
+    "index.html": "/mohsinali681/react-context-api/index.html",
+    "main.083f0e7f.css.map": "/mohsinali681/react-context-api/static/css/main.083f0e7f.css.map",
+    "main.da68b4a3.js.map": "/mohsinali681/react-context-api/static/js/main.da68b4a3.js.map",
+    "787.82dc9301.chunk.js.map": "/mohsinali681/react-context-api/static/js/787.82dc9301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083f0e7f.css",
+    "static/js/main.da68b4a3.js"
+  ]
+}
